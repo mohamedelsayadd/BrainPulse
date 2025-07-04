@@ -1,0 +1,2 @@
+C:/Users/donia/StudioProjects/Brainpulse/android/app/.cxx/Debug/602j694j/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/donia/StudioProjects/Brainpulse/android/app/.cxx/Debug/602j694j/x86_64/CMakeFiles/rebuild_cache.dir

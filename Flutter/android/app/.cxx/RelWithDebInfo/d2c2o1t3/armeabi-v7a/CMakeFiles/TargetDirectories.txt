@@ -1,0 +1,2 @@
+/Users/mohamed/Desktop/Brainpulse/android/app/.cxx/RelWithDebInfo/d2c2o1t3/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/mohamed/Desktop/Brainpulse/android/app/.cxx/RelWithDebInfo/d2c2o1t3/armeabi-v7a/CMakeFiles/rebuild_cache.dir
