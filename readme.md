@@ -6,7 +6,7 @@
 
 <br>
 
-![alt text](https://github.com/mohamedelsayadd/BrainPulse/blob/23cb90c48662558a7152b0a28040d7c387c953ee/Images/logo.png)
+![Logo](https://github.com/mohamedelsayadd/BrainPulse/blob/23cb90c48662558a7152b0a28040d7c387c953ee/Images/logo.png)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 📝 Table of Contents
+##  Table of Contents
 - [Overview](#-overview)
 - [The Problem](#-the-problem)
 - [Our Solution](#-our-solution)
@@ -36,7 +36,7 @@
 - [Acknowledgements](#-acknowledgements)
 - [Installation](#installation)
 
-## 💡 Overview
+##  Overview
 **Brain Pulse** is a graduation project from Misr Engineering and Technology Academy (MET) that bridges the gap between complex neurological diagnostics and accessibility. The project features an integrated system combining a custom-designed EEG Helmet, a user-friendly mobile application, and a powerful AI backend.
 
 This repository provides a deep dive into the technical architecture of the project, with a special focus on the core innovation: **a Deep Learning model for the automated classification of EEG signals**.
@@ -51,9 +51,7 @@ Interpreting EEG data is a time-consuming process that requires highly specializ
 ## ✨ Our Solution
 Our solution is a complete, end-to-end system designed to empower clinicians. It integrates custom hardware, a cross-platform mobile app, and a robust AI backend to provide a seamless, accurate, and real-time tool for detecting brain abnormalities anytime, anywhere.
 
-<p align="center">
-  <img src="https://i.imgur.com/vHqVwJ4.png" alt="Our Solution Stats" width="700"/>
-</p>
+![Solution](https://github.com/mohamedelsayadd/BrainPulse/blob/30713cd4b6fe4728644aa818b8cbda970e532724/Images/Soluation.png)
 
 ## ⚙️ Hardware
 The foundation of our system is a custom-designed, low-cost, and portable EEG Helmet. The hardware was engineered to be both effective and accessible.
@@ -62,9 +60,7 @@ The foundation of our system is a custom-designed, low-cost, and portable EEG He
 - **Analog Front-End:** A multi-stage signal conditioning circuit featuring signal amplification (AD620, OP07), and advanced filtering (DRL, Notch, Low-Pass) to ensure a clean, high-quality signal.
 - **Digital Conversion & Transmission:** An ESP32 microcontroller handles Analog-to-Digital Conversion and transmits the EEG data packets via Bluetooth Low Energy (BLE) to the mobile application.
 
-<p align="center">
-  <img src="https://i.imgur.com/K5d5351.png" alt="Hardware Overview" width="700"/>
-</p>
+![Helmet Design](https://github.com/mohamedelsayadd/BrainPulse/blob/30713cd4b6fe4728644aa818b8cbda970e532724/Images/helmet_design%20.png)
 
 ## 📱 Mobile Application
 The mobile application serves as the user-friendly interface for doctors, allowing them to manage patients and interact with the AI model's predictions.
@@ -75,9 +71,7 @@ The mobile application serves as the user-friendly interface for doctors, allowi
   - **Live EEG Monitoring:** Connect to the EEG headset and visualize brainwave data in real time.
   - **AI-Powered Diagnosis:** Upload EEG data (or connect live) to get instant classification from the AI backend.
   - **Data Visualization:** Presents the AI model's probability scores for each class in an intuitive and clear interface.
-  <p align="center">
-  <img src="https://i.imgur.com/K5d5351.png" alt="Hardware Overview" width="700"/>
-</p>
+  ![Mobile](https://github.com/mohamedelsayadd/BrainPulse/blob/30713cd4b6fe4728644aa818b8cbda970e532724/Images/application.png)
 
 ## ☁️ Backend
 The backend is the central nervous system of our project, responsible for handling data, authenticating users, and running the AI model.
@@ -116,9 +110,8 @@ To understand performance in detail, we analyzed predictions using confusion mat
 
 **Misclassification Matrix:** Highlights only the model's errors, revealing which classes are most often confused. This is crucial for understanding the model's limitations and areas for future improvement.
 
-<p align="center">
-  <img src="https://i.imgur.com/xHDBUoA.png" alt="Model Performance" width="800"/>
-</p>
+![Matrix1](https://github.com/mohamedelsayadd/BrainPulse/blob/30713cd4b6fe4728644aa818b8cbda970e532724/Images/matrix1.png)
+![Matrix2](https://github.com/mohamedelsayadd/BrainPulse/blob/30713cd4b6fe4728644aa818b8cbda970e532724/Images/matrix2.png)
 
 ## 🚀 Getting Started
 This section guides you through setting up and running the AI part of the project.
