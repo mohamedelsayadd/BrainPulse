@@ -6,9 +6,7 @@
 
 <br>
 
-<p align="center">
-  <img src="[https://i.imgur.com/G3P2LwE.png](https://github.com/mohamedelsayadd/BrainPulse/blob/23cb90c48662558a7152b0a28040d7c387c953ee/Images/logo.png)" alt="Brain Pulse Logo" width="800"/>
-</p>
+![alt text](https://github.com/mohamedelsayadd/BrainPulse/blob/23cb90c48662558a7152b0a28040d7c387c953ee/Images/logo.png)
 
 </div>
 
