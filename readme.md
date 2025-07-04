@@ -2,7 +2,7 @@
 
 # Brain Pulse: AI-Powered EEG Signal Analysis
 
-**An integrated solution combining a custom EEG headset, mobile application, and a deep learning backend to revolutionize neurological diagnostics.**
+**An integrated solution combining a custom EEG helmet, mobile application, and a deep learning backend to revolutionize neurological diagnostics.**
 
 <br>
 
